@@ -1,0 +1,17 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "My first real Node app",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Lloyd",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^6.2.0",
+    "moment": "^2.23.0",
+    "node-spotify-api": "^1.0.7"
+  }
+}
